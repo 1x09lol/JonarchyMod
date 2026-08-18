@@ -2,6 +2,9 @@
 
 <img width="235" height="235" alt="ChatGPT Image 18 août 2026, 23_46_43" src="https://github.com/user-attachments/assets/4b98330f-3744-477c-b516-e8e5c508cffc" />
 
+<img width="235" height="235" alt="gonarchy" src="https://github.com/user-attachments/assets/b93c69b8-7155-42f8-a34a-fc847de139a6" />
+
+
 ServerUnblocker is a Fabric client-side mod made for players who want an easy way to connect to `Jonarchy.com` if Minecraft's blocked-server system prevents the server from appearing or being joined normally.
 
 The mod was created as a fallback in case Mojang blocks `Jonarchy.com` for any reason. Once installed, it bypasses the client-side blocked-server check and can automatically add `Jonarchy.com` to your multiplayer server list.
