@@ -1,1 +1,1 @@
-Tuff bypass by microslop Mojang's blocked server 
+bypass Mojang's blocked server any Anarchy Servers
