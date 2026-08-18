@@ -3,7 +3,8 @@ package me.jonarchy.jonarchymod;
 import net.fabricmc.api.ClientModInitializer;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-
+// COPYRIGHT 2026 JONARCHY.
+// made by froslan, 1x09 aka _justme, kulturist and more people
 public class JonarchyMod implements ClientModInitializer {
 	public static final String MOD_ID = "jonarchymod";
 	public static final String SERVER_NAME = "Jonarchy";
