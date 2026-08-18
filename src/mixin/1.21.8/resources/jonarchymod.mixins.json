@@ -1,0 +1,12 @@
+{
+	"required": true,
+	"package": "me.jonarchy.jonarchymod.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"client": [
+		"ServerListMixin",
+		"BlockedServersMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
