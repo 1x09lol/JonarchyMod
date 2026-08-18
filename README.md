@@ -42,9 +42,9 @@ Individual version configurations can be found under:
 
 ## Contact
 
-* Email: [contact@jonarchy.com](mailto:contact@jonarchy.com)
-* Website: https://Jonarchy.com
-* Discord: https://discord.jonarchy.com
+* Email: [jonarchyhelpcenter@gmail.com](mailto:jonarchyhelpcenter@gmail.com)
+* Website: https://www.Jonarchy.com
+* Discord: https://dsc.gg/jonarchy
 
 ## For Developers
 
