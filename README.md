@@ -16,7 +16,7 @@ The mod was created as a fallback in case Mojang blocks `Jonarchy.com` for any r
 
 ## Download
 
-### <a href="https://github.com/XeraPlugins/ServerUnblocker/releases/">Download the latest release</a>
+### <a href="https://github.com/1x09lol/JonarchyMod/releases">Download the latest release</a>
 
 1. Download the `.jar` matching your Minecraft version from the GitHub Releases page.
 2. Install [Fabric Loader](https://fabricmc.net/).
