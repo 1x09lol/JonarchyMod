@@ -4,7 +4,7 @@
 
 <img width="235" height="235" alt="jobnarchyispeak" src="https://github.com/user-attachments/assets/2304217a-e7a9-48e3-8e47-b873052cca8b" />
 
-ServerUnblocker is a Fabric client-side mod made for players who want an easy way to connect to `Jonarchy.com` if Minecraft's blocked-server system prevents the server from appearing or being joined normally.
+JonarchyMod is a Fabric client-side mod made for players who want an easy way to connect to `Jonarchy.com` if Minecraft's blocked-server system prevents the server from appearing or being joined normally.
 
 The mod was created as a fallback in case Mojang blocks `Jonarchy.com` for any reason. Once installed, it bypasses the client-side blocked-server check and can automatically add `Jonarchy.com` to your multiplayer server list.
 
@@ -30,7 +30,7 @@ Once Minecraft launches, `Jonarchy.com` will be added to your multiplayer server
 
 ## Privacy / Telemetry
 
-ServerUnblocker is designed to run without collecting user information. The mod does **not** collect, store, or transmit personal or usage data.
+JonarchyMod is designed to run without collecting user information. The mod does **not** collect, store, or transmit personal or usage data.
 
 Everything happens locally inside your Minecraft client. There are no analytics requests, tracking systems, or telemetry servers involved.
 
@@ -66,7 +66,7 @@ Compiled jars are placed in:
 
 ## How It Works
 
-ServerUnblocker makes two small client-side changes using Mixins:
+JonarchyMod makes two small client-side changes using Mixins:
 
 | Mixin                 | Target                                                     | Effect                                                                              |
 | --------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------- |
