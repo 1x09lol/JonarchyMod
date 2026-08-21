@@ -1,4 +1,5 @@
-JonarchyMod
+# JonarchyMod
+
 <img width="235" height="235" alt="ChatGPT Image 18 août 2026, 23_46_43" src="https://github.com/user-attachments/assets/4b98330f-3744-477c-b516-e8e5c508cffc" /> <img width="235" height="235" alt="jobnarchyispeak" src="https://github.com/user-attachments/assets/2304217a-e7a9-48e3-8e47-b873052cca8b" />
 
 JonarchyMod is a Fabric client-side mod made for players who want an easy way to connect to Jonarchy.com if Minecraft's blocked-server system prevents the server from appearing or being joined normally.
